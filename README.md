@@ -5,13 +5,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer;Full+Stack+Development;Problem+Solver+%7C+Tech+Enthusiast;Building+Real+World+Projects;Learning+by+Building" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Developer;Full+Stack+Development;Backend+Development;Problem+Solver+%7C+Tech+Enthusiast;Learning+by+Building+Real+Projects" />
 
 <br/><br/>
-
-<h3>🚀 Building practical applications and solving real-world problems through technology</h3>
-
-<br/>
 
 <a href="https://www.linkedin.com/in/rajesh-achari-3273412bb">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/>
@@ -39,20 +35,20 @@ role: Software Developer
 
 focus:
   - Full Stack Development
-  - Real-World Projects
   - Backend Development
   - Problem Solving
-  - Scalable Applications
+  - Real-World Applications
+  - Scalable Systems
 
 currently_learning:
   - System Design
   - Backend Technologies
-  - Web Development
-  - Scalable Systems
+  - Scalable Architectures
+  - Modern Web Development
 
 motto:
   "Learning by building real-world projects"
-````
+```
 
 ---
 
@@ -64,20 +60,23 @@ motto:
 
 ## 🚜 Farmate
 
-A smart agriculture-based platform focused on improving farming workflows and solving real-world agricultural challenges.
+Smart agriculture platform designed to simplify farming workflows and improve agricultural efficiency.
 
 ### Features
 
-* Agriculture-focused workflows
-* User-friendly interface
-* Smart management system
-* Real-world problem solving
+- Agriculture-based workflows  
+- Smart system management  
+- User-friendly experience  
+- Real-world problem solving  
 
-### 🔗 Repository
+### ⚙️ Tech Stack
 
-<a href="https://github.com/rajesh123r54/Farmate">
-  View Project
-</a>
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=58a6ff)
+![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=58a6ff)
+![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
+
+🔗 Repository:  
+https://github.com/rajesh123r54/Farmate
 
 </td>
 
@@ -85,20 +84,23 @@ A smart agriculture-based platform focused on improving farming workflows and so
 
 ## 💻 Opti Code
 
-A development-focused project designed for improving productivity and code optimization workflows.
+A developer-focused project aimed at improving coding workflows and productivity.
 
 ### Features
 
-* Clean architecture
-* Optimized workflows
-* Developer-focused features
-* Scalable implementation
+- Code optimization workflows  
+- Clean project structure  
+- Productivity-focused development  
+- Scalable implementation  
 
-### 🔗 Repository
+### ⚙️ Tech Stack
 
-<a href="https://github.com/rajesh123r54/opti_code">
-  View Project
-</a>
+![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=58a6ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=ffffff)
+
+🔗 Repository:  
+https://github.com/rajesh123r54/opti_code
 
 </td>
 </tr>
@@ -106,7 +108,7 @@ A development-focused project designed for improving productivity and code optim
 
 ---
 
-# 🧰 Tech Stack
+# 🧰 Tech Arsenal
 
 <div align="center">
 
@@ -116,15 +118,15 @@ A development-focused project designed for improving productivity and code optim
 
 <br/><br/>
 
-## 🌐 Development Tools
+## 🌐 Backend / Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql&theme=dark" />
 
 <br/><br/>
 
-## ⚙️ Backend / Database
+## ⚙️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
 
 </div>
 
@@ -154,11 +156,11 @@ A development-focused project designed for improving productivity and code optim
 
 <div align="center">
 
-| Development         | Backend       | Learning         |
-| ------------------- | ------------- | ---------------- |
-| Real-world Projects | APIs          | System Design    |
-| Full Stack Apps     | Databases     | Scalable Systems |
-| Problem Solving     | Backend Logic | Web Development  |
+| Development | Backend | Learning |
+|---|---|---|
+| Full Stack Projects | APIs | System Design |
+| Problem Solving | Databases | Web Development |
+| Scalable Apps | Backend Logic | Modern Technologies |
 
 </div>
 
@@ -174,7 +176,7 @@ A development-focused project designed for improving productivity and code optim
 
 ---
 
-# 💬 Developer Quote
+# 💬 Dev Quote
 
 <div align="center">
 
@@ -188,11 +190,11 @@ A development-focused project designed for improving productivity and code optim
 
 ## ⚡ Open To
 
-Software Development • Full Stack Development • Collaborations • Internships
+Software Development • Full Stack • Collaborations • Internships
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22"/>
 
 </div>
-```
+````
