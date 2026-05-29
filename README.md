@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Rajesh%20Achari&fontSize=55&color=0:0d1117,100:58a6ff&stroke=58a6ff&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=260&text=Rajesh%20Achari&fontSize=55&color=0:0d1117,100:58a6ff&fontColor=ffffff" width="100%"/>
+
+
 
 <br/>
 
