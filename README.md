@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Rajesh%20Achari&fontSize=55&color=0:0d1117,100:58a6ff&stroke=58a6ff&fontColor=ffffff" width="100%"/>
@@ -197,4 +197,4 @@ Software Development • Full Stack • Collaborations • Internships
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=22"/>
 
 </div>
-````
+
